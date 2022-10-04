@@ -3,7 +3,7 @@
     "contentBuilder": [
       {
         "id": 110233,
-        "bldrId": "59b8ecb5-9333-4315-a445-862267b8ec39",
+        "bldrId": "06f1432d-8ecb-440f-938e-76fd55e9e5d3",
         "name": "functions",
         "customerKey": "04ec9b8d-c529-45c3-8f62-2d4461f50755",
         "assetType": {
@@ -21,7 +21,7 @@
       },
       {
         "id": 110234,
-        "bldrId": "79c28413-50e3-4407-b3ba-6973c4ecc95a",
+        "bldrId": "6fb4ace1-272f-4d48-aaf2-c40113e66e40",
         "name": "app_configuration",
         "customerKey": "5ad9274d-616e-47a9-bd01-f3655b4ec385",
         "assetType": {
@@ -39,7 +39,7 @@
       },
       {
         "id": 110235,
-        "bldrId": "103a0494-1c3c-4a9d-984a-3a8363ac32d0",
+        "bldrId": "1da32052-9376-45ab-9709-c93b8bddb86f",
         "name": "app_html",
         "customerKey": "4d2f3eb9-04bb-4f77-9ef2-f6b0c60eaf9e",
         "assetType": {
@@ -57,7 +57,7 @@
       },
       {
         "id": 110236,
-        "bldrId": "a857f124-3d77-4d5a-848a-fd3a18bed401",
+        "bldrId": "18da32e1-d65a-41e2-82d0-d7b1ad23ea15",
         "name": "app_js",
         "customerKey": "f43a7e3d-905b-490d-afa9-4d71b5373758",
         "assetType": {
@@ -75,7 +75,7 @@
       },
       {
         "id": 110237,
-        "bldrId": "5395ae19-1f02-4a77-ac5e-baad0797b683",
+        "bldrId": "db693766-2d1d-4d4b-acbd-c0df1f84b756",
         "name": "channel_drawer",
         "customerKey": "48c2a823-332a-4e06-b314-8014ad8dfc09",
         "assetType": {
@@ -93,7 +93,7 @@
       },
       {
         "id": 110238,
-        "bldrId": "9b6af1c7-9f51-466c-a8ca-b361d48b63ff",
+        "bldrId": "642f4323-79fc-48b1-a34f-120890c955c2",
         "name": "preference_options",
         "customerKey": "e7e20f18-1df9-4b23-9544-189c0df3e524",
         "assetType": {
@@ -111,7 +111,7 @@
       },
       {
         "id": 110239,
-        "bldrId": "0964dd92-5b3c-4ce0-b0e9-805e624f846d",
+        "bldrId": "f26a862f-7060-415f-8962-c251cb9a83a4",
         "name": "branding_bar",
         "customerKey": "fff302ae-8438-4ee0-a144-2bc3e2bf9bc7",
         "assetType": {
@@ -129,7 +129,7 @@
       },
       {
         "id": 110240,
-        "bldrId": "50696b84-74cd-4add-83c8-e1787476e6e5",
+        "bldrId": "e3511948-75e6-429c-a3b0-851b0ad5f877",
         "name": "preference_form",
         "customerKey": "5e72e715-dd35-46de-b4c6-aa155b7d8aa9",
         "assetType": {
@@ -147,7 +147,7 @@
       },
       {
         "id": 110241,
-        "bldrId": "ed069655-3023-4cf5-b89a-e3ddc97d7b58",
+        "bldrId": "51bc1355-e85e-4537-9215-97df3017ea1b",
         "name": "submit_button_animation",
         "customerKey": "740ad778-a53e-425b-b9d7-6cedc8b79757",
         "assetType": {
@@ -165,7 +165,7 @@
       },
       {
         "id": 110242,
-        "bldrId": "dc69810c-5f85-474b-a134-dbc85b80a208",
+        "bldrId": "d49ef487-8d0d-4dcb-aa85-ec6b547775e4",
         "name": "wsProxy",
         "customerKey": "21a6dbc4-5270-4a66-88b5-20996f5555e6",
         "assetType": {
@@ -183,7 +183,7 @@
       },
       {
         "id": 110243,
-        "bldrId": "d76d78a1-6166-4954-a4b8-eb6c5060997a",
+        "bldrId": "723618af-b8f4-43df-9c64-376937bda1fe",
         "name": "subscriber_validation",
         "customerKey": "b7ef195d-6c00-4160-a6d4-dbd912bc4385",
         "assetType": {
@@ -201,7 +201,7 @@
       },
       {
         "id": 110244,
-        "bldrId": "6115a17b-e54a-43eb-9c34-8c918758989f",
+        "bldrId": "69eb43f4-b43a-43f7-a976-9c2b919959a4",
         "name": "unauthorized_user",
         "customerKey": "1d23a8f0-b840-42f7-9b06-64a206c56bbd",
         "assetType": {
@@ -219,7 +219,7 @@
       },
       {
         "id": 110245,
-        "bldrId": "457811f3-39bf-46ce-8e6c-c65f33aa97f8",
+        "bldrId": "a398e3a1-5d4b-4c11-b863-1db5084060ab",
         "name": "utils",
         "customerKey": "b5f63f44-3f06-476f-9972-3e788a1c9ac5",
         "assetType": {
@@ -237,7 +237,7 @@
       },
       {
         "id": 110246,
-        "bldrId": "787e34fd-94e9-462f-8ca5-ca1ca88f6e57",
+        "bldrId": "ec900128-6be4-4b9c-b177-f8d64cbff954",
         "name": "processing_api",
         "customerKey": "892b44fc-76c7-4815-9c4c-527f5d56aaca",
         "assetType": {
@@ -255,7 +255,7 @@
       },
       {
         "id": 110247,
-        "bldrId": "7cf1d30d-b22f-48c0-b6c7-709139db2ebd",
+        "bldrId": "60aea7f0-6234-4fcd-9fbd-1ef3441a7cf4",
         "name": "_component_imports",
         "customerKey": "c0594a21-a351-4e6c-8dea-37e428b085e1",
         "assetType": {
@@ -274,5 +274,5 @@
     ]
   },
   "configurationId": "88373-3939983zjfdal3-93830s9",
-  "commitDate": "2022-10-04T16:33:50.300Z"
+  "commitDate": "2022-10-04T16:37:06.200Z"
 }
